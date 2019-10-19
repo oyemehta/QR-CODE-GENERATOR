@@ -7,3 +7,5 @@ RERUIREMENTS
 
 pyqrcode python API
 tiknter pyhton library
+
+pycharm (IDE)
